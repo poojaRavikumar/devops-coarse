@@ -45,13 +45,8 @@ class university{
 
 		System.out.println(firstStudent.getStudId());
 
-		firstStudent.setcourse("Mettalic Blue");
-		firstStudent.setaddress("2014");
+		firstStudent.setcourse("Information technology");
+		firstStudent.setaddress("chennai");
 
-
-		Student newStudentForAsiaMarket = new Student();
-
-
-
-	}
 }
+		}
